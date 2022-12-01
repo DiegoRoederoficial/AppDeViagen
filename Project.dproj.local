@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/30 21:00:38.000.805,=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/30 21:01:54.000.167,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UTelaInicial.pas=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/30 21:01:54.000.167,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UTelaInicial.fmx=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/11/30 21:03:28.000.111,=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:04:08.000.360,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UDM.dfm=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/30 21:04:08.000.360,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UDM.pas=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:05:52.000.894,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Project.dproj=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/30 21:08:24.000.845,=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:08:45.000.948,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UEscolha.pas=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:08:45.000.948,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UEscolha.fmx=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/11/30 21:17:56.000.971,=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:18:29.000.361,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\URegisterCarro.fmx=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/11/30 21:18:29.000.361,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\URegisterCarro.pas=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:23:49.000.337,=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 21:25:44.000.684,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UGPS.fmx</Transaction>
+    <Transaction>2022/11/30 21:25:44.000.684,D:\Users\aluno\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Users\aluno\Documents\Embarcadero\Studio\Projects\UGPS.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="RQ8RB0A25EH" Android64="RQ8RB0A25EH"/>
+	</ActiveMobileDevice>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

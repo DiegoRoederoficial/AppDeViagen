@@ -1,0 +1,162 @@
+object FormCadastroCarros: TFormCadastroCarros
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 360
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Layout1: TLayout
+    Align = Contents
+    Size.Width = 360.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Layout3: TLayout
+      Align = Top
+      Size.Width = 360.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Label5: TLabel
+        Align = Center
+        Size.Width = 161.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+        Text = 'Cadastro de Carros'
+        TabOrder = 0
+      end
+    end
+    object Layout2: TLayout
+      Align = Center
+      Size.Width = 314.000000000000000000
+      Size.Height = 342.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Layout4: TLayout
+        Align = Top
+        Size.Width = 314.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 3
+        object Label1: TLabel
+          Align = Top
+          Size.Width = 314.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Nome Do Carro'
+          TabOrder = 0
+        end
+        object Edit_Nome: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Top
+          TabOrder = 1
+          Position.Y = 25.000000000000000000
+          Size.Width = 314.000000000000000000
+          Size.Height = 32.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object Layout5: TLayout
+        Align = Top
+        Position.Y = 65.000000000000000000
+        Size.Width = 314.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        object Label2: TLabel
+          Align = Top
+          Size.Width = 314.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Quantidade De Litros'
+          TabOrder = 0
+        end
+        object Edit_Quantridade: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Top
+          TabOrder = 1
+          Position.Y = 25.000000000000000000
+          Size.Width = 314.000000000000000000
+          Size.Height = 32.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object Layout6: TLayout
+        Align = Top
+        Position.Y = 130.000000000000000000
+        Size.Width = 314.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Label3: TLabel
+          Align = Top
+          Size.Width = 314.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Tipo'
+          TabOrder = 0
+        end
+        object Edit_Tipo: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Top
+          TabOrder = 1
+          Position.Y = 25.000000000000000000
+          Size.Width = 314.000000000000000000
+          Size.Height = 32.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object Layout7: TLayout
+        Align = Top
+        Position.Y = 195.000000000000000000
+        Size.Width = 314.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Label4: TLabel
+          Align = Top
+          Size.Width = 314.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'Media'
+          TabOrder = 0
+        end
+        object Edit_Media: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Top
+          TabOrder = 1
+          Position.Y = 25.000000000000000000
+          Size.Width = 314.000000000000000000
+          Size.Height = 32.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object Rectangle1: TRectangle
+        Fill.Color = claBlack
+        Position.X = 40.000000000000000000
+        Position.Y = 272.000000000000000000
+        Size.Width = 217.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = claWhite
+        OnClick = Rectangle1Click
+      end
+      object Label6: TLabel
+        StyledSettings = [Family, Size, Style]
+        HitTest = True
+        Position.X = 112.000000000000000000
+        Position.Y = 280.000000000000000000
+        Size.Width = 89.000000000000000000
+        Size.Height = 31.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.FontColor = claWhite
+        Text = 'Cadastrar'
+        TabOrder = 5
+        OnClick = Rectangle1Click
+      end
+    end
+  end
+end
